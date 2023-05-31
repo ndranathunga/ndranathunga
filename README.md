@@ -24,3 +24,4 @@
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ndranathunga&theme=radical&show_icons=true&hide_title=true" />
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ndranathunga&theme=radical&layout=compact" />
 </div>
+<!-- <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ndranathunga" /> -->
