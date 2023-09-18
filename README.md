@@ -1,7 +1,7 @@
 ### Hi there 👋
-
-<img width="20%" align="right" alt="Github" src="https://github.com/ndranathunga/ndranathunga/assets/55920038/58a100cd-795d-4028-8132-2d290cda3110" />
-
+<!--
+<img width="20%" align="right" alt="Github" src="Programmer.png" />
+-->
 - 🌱 I’m currently a Computer Science and Engineering undergraduate at the University of Moratuwa, Sri Lanka.
 - 🔭 I’m currently learning backend web, Deep learning and Generative AI.
 
