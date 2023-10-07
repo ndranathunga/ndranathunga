@@ -26,6 +26,17 @@
 
 <div>
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ndranathunga&theme=radical&show_icons=true&hide_title=true" />
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ndranathunga&theme=radical&layout=compact" />
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ndranathunga&theme=radical&layout=compact&langs_count=6" />
 </div>
 <!-- <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ndranathunga" /> -->
+
+### Top Repositories
+
+<p float="left">
+<a href="https://github.com/ndranathunga/StrawHats_Aether.git">
+  <img height="150em" style = "margin: 8px 8px 8px 8px;" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ndranathunga&repo=StrawHats_Aether&theme=radical&layout=compact" />
+</a>
+<a href="https://github.com/team-ebusiness/eBusiness#e-commerce_platform">
+  <img height="150em" style = "margin: 8px 8px 8px 8px;" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=team-ebusiness&repo=eBusiness&theme=radical&layout=compact" />
+</a>
+</p>
