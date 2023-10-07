@@ -26,7 +26,7 @@
 
 <div>
 <img height="170em" src="https://github-readme-stats.vercel.app/api?username=ndranathunga&theme=github_dark_dimmed&show_icons=true&hide_title=true" />
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ndranathunga&theme=github_dark_dimmed&layout=compact&langs_count=8" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ndranathunga&theme=github_dark_dimmed&layout=compact&langs_count=8&hide=HTML,Jupyter%20Notebook,Tcl" />
 </div>
 <!-- <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ndranathunga" /> -->
 
