@@ -33,10 +33,10 @@
 ### Top Repositories
 
 <p float="left">
-  <a href="https://github.com/ndranathunga/StrawHats_Aether.git" style="width: 50%;">
+  <a href="https://github.com/ndranathunga/StrawHats_Aether.git">
     <img height="150em" style="margin: 8px 8px 8px 8px;" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ndranathunga&repo=StrawHats_Aether&theme=radical&layout=compact" />
   </a>
-  <a href="https://github.com/team-ebusiness/eBusiness#e-commerce_platform" style="width: 50%;">
+  <a href="https://github.com/team-ebusiness/eBusiness#e-commerce_platform">
     <img height="150em" style="margin: 8px 8px 8px 8px;" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=team-ebusiness&repo=eBusiness&theme=radical&layout=compact" />
   </a>
 </p>
