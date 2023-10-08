@@ -56,3 +56,5 @@
     <img height="30em" src="https://skillicons.dev/icons?i=git,github,docker,idea,androidstudio,vscode,figma,latex,postman" />
   </a>
 </p>
+
+![Snake animation](https://github.com/ndranathunga/ndranathunga/blob/output/github-contribution-grid-snake.svg)
