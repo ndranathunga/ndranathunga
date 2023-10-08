@@ -30,6 +30,8 @@
 </div>
 <!-- <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ndranathunga" /> -->
 
+
+
 ### Top Repositories
 
 <p float="left">
@@ -38,5 +40,19 @@
   </a>
   <a href="https://github.com/team-ebusiness/eBusiness#e-commerce_platform">
     <img height="131em" style="margin: 8px 8px 8px 8px;" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=team-ebusiness&repo=eBusiness&theme=radical&layout=compact" />
+  </a>
+</p>
+
+#### Languages and Tools
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img height="30em" src="https://skillicons.dev/icons?i=py,cpp,java,bash,mysql,sqlite,php,tensorflow,fastapi,html,css,js,jquery,react,bootstrap" />
+  </a>
+</p>
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img height="30em" src="https://skillicons.dev/icons?i=git,github,docker,idea,androidstudio,vscode,figma,latex,postman" />
   </a>
 </p>
