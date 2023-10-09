@@ -2,8 +2,9 @@
 <!--
 <img width="20%" align="right" alt="Github" src="Programmer.png" />
 -->
-- 🌱 I’m currently a Computer Science and Engineering undergraduate at the University of Moratuwa, Sri Lanka.
-- 🔭 I’m currently learning backend web, Deep learning and Generative AI.
+- 🌱 I am presently pursuing a degree in Computer Science and Engineering at the University of Moratuwa, Sri Lanka.
+- 🔭 My current areas of focus include backend web development, deep learning, and generative artificial intelligence.
+
 
 <!--
 ### 🛠 &nbsp;Tech Stack
