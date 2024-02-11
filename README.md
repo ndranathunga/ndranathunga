@@ -43,7 +43,7 @@
     <img height="131em" style="margin: 8px 8px 8px 8px;" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=team-ebusiness&repo=eBusiness&theme=radical&layout=compact" />
   </a>
 </p>
-
+<!--
 #### Languages and Tools
 
 <p align="left">
@@ -57,5 +57,5 @@
     <img height="30em" src="https://skillicons.dev/icons?i=git,github,docker,idea,androidstudio,vscode,figma,latex,postman" />
   </a>
 </p>
-
+-->
 <!-- ![Snake animation](https://github.com/ndranathunga/ndranathunga/blob/output/github-contribution-grid-snake.svg) -->
